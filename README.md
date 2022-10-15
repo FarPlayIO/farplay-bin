@@ -8,3 +8,4 @@
 - 1.0.1 2022-07-04 - Multi-channel broadcast output (subscription only), minor UI fixes
 - 1.0.2 2022-07-25 - Bugfixing release, audio recording and latency fixes, Ubuntu 22.04 compatibility
 - 1.0.3 2022-09-01 - Connectivity fixes, mix recording options, video prefs, audio dev switching improvements
+- 1.0.4 2022-10-15 - Mute button, fix video on Fedora Linux, advanced settings
