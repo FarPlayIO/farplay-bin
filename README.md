@@ -10,3 +10,4 @@
 - 1.0.3 2022-09-01 - Connectivity fixes, mix recording options, video prefs, audio dev switching improvements
 - 1.0.4 2022-10-15 - Mute button, fix video on Fedora Linux, advanced settings
 - 1.0.5 2022-12-23 - New design, User Name input, sample rate conversion
+- 1.0.6 2023-01-12 - Fix old MacOS (10.13-10.14) compatibility
