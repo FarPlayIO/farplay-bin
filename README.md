@@ -11,3 +11,4 @@
 - 1.0.4 2022-10-15 - Mute button, fix video on Fedora Linux, advanced settings
 - 1.0.5 2022-12-23 - New design, User Name input, sample rate conversion
 - 1.0.6 2023-01-12 - Fix old MacOS (10.13-10.14) compatibility
+- 1.0.7 2023-03-28 - PM room support, new video implementation
