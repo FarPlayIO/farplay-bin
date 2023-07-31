@@ -13,3 +13,4 @@
 - 1.0.6 2023-01-12 - Fix old MacOS (10.13-10.14) compatibility
 - 1.0.7 2023-03-28 - PM room support, new video implementation
 - 1.1.0 2023-04-26 - Session chat (subscribed sessions only)
+- 1.2.0 2023-07-31 - New latency UI, jitter-buffer improvements, video recording beta (Standard+ only)
