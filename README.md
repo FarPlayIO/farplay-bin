@@ -17,3 +17,4 @@
 - 1.2.1 2023-09-12 - Full video recording (multi-channel + combined), automatic send buffer control
 - 1.2.2 2023-10-14 - Bugfix release fixing combined video export for mix video recording
 - 1.2.3 2023-11-12 - Screen sharing, new layout manager for video window and combined video recording
+- 1.2.4 2023-12-17 - Input mixer, Waiting Room for PM sessions, misc UI and session security improvements
