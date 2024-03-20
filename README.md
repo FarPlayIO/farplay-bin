@@ -19,3 +19,4 @@
 - 1.2.3 2023-11-12 - Screen sharing, new layout manager for video window and combined video recording
 - 1.2.4 2023-12-17 - Input mixer, Waiting Room for PM sessions, misc UI and session security improvements
 - 1.2.5 2024-01-26 - FarPlay for teachers changes, improvements of PM rooms including multiple rooms support
+- 1.2.6 2024-03-20 - Audio peak limiter, save/load Pan & Gain settings for multiuser sessions, collapsible user subpanels.
