@@ -22,3 +22,4 @@
 - 1.2.6 2024-03-20 - Audio peak limiter, save/load Pan & Gain settings for multiuser sessions, collapsible user subpanels.
 - 1.2.7 2024-05-08 - Bugfix release for empty camera list on Windows, minor stability fixes.
 - 1.3.0-b1 2024-06-23 - Input mixer supports multiple devices, improved media recording. Required Max OS version increased to 11.x.
+- 1.3.0 2024-08-13 - Input mixer with multiple device support and reverb. Improved recording, broadcast output, menus and accessibility.
