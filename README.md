@@ -26,3 +26,4 @@
 - 1.3.1 2025-03-07 - Audible session join/leave notifications, auto re-connect to session, active video badge and other UI improvements.
 - 1.3.2 2026-04-02 - Video preferences unified with main ones, UNICODE fixes, default buffer on Windows is 480 now, room banner in chat.
 - 1.3.3 2026-06-26 - Bugfix release: auto latency reset, chat banner title, video framerate (encoding performance) improvement.
+- 1.4.0 2026-10-22 - Improved audio device management, macOS Syphon video output, Apple Silicon native build (macOS), screen sharing fixes, input mixer export/import.
